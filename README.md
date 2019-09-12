@@ -22,7 +22,9 @@
 ## Install
 
 ```sh
-É preciso colocar para rodar as duas aplicações. A do front que está rodando na porta 3000 e o back-end que está na 3001. Pontanto, tem que ir na pasta raiz de cada um e rodar o comando:
+É preciso colocar para rodar as duas aplicações. 
+A do front que está rodando na porta 3000 e o back-end que está na 3001. 
+Pontanto, tem que ir na pasta raiz de cada um e rodar o comando:
 npm install
 ```
 

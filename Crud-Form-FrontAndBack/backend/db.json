@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Bob Synclair",
+      "email": "bob@email.com",
+      "id": 1
+    },
+    {
+      "name": "Ulrich Stanford",
+      "email": "ulrich@email.com",
+      "id": 2
+    },
+    {
+      "name": "Oklahoma United",
+      "email": "oklahoma@email.com",
+      "id": 3
+    },
+    {
+      "name": "Garth Smith",
+      "email": "garth@email.com",
+      "id": 4
+    }
+  ]
+}

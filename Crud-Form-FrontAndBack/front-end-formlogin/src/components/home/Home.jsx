@@ -6,5 +6,5 @@ export default props =>
         subtitle="Form Project with React">
         <div className="display-4">Bem Vindo!</div>
         <hr />
-        <p className="mb-0">Aplicação construida em React com o iutuito de conhecer e aprender.</p>
+        <p className="mb-0">Aplicação construida em React com o intuito de conhecer e aprender sobre esta biblioteca.</p>
     </Main>

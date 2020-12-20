@@ -1,24 +1,19 @@
 {
   "users": [
     {
-      "name": "Bob Synclair",
-      "email": "bob@email.com",
-      "id": 1
+      "name": "Rafael Alves",
+      "email": "rafaelalves@gmail.com",
+      "id": 5
     },
     {
-      "name": "Ulrich Stanford",
-      "email": "ulrich@email.com",
-      "id": 2
+      "name": "Globo",
+      "email": "globo@globo.com",
+      "id": 6
     },
     {
-      "name": "Oklahoma United",
-      "email": "oklahoma@email.com",
-      "id": 3
-    },
-    {
-      "name": "Garth Smith",
-      "email": "garth@email.com",
-      "id": 4
+      "name": "Pluga",
+      "email": "pluga@pluga.com",
+      "id": 7
     }
   ]
 }

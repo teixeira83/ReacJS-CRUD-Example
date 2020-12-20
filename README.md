@@ -39,11 +39,8 @@ npm start
 
 👤 **Rafael Teixeira**
 
-* Github: [@teixeira83](https://github.com/teixeira83)
-
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Acredito que este projeto seja um bom exemplo para iniciantes no ReactJS. 
+Então deixe aquela ⭐️ !
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
